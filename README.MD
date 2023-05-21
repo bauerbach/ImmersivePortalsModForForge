@@ -1,4 +1,4 @@
-This is a fork of Immersive Portals for Forge. The repo was forked so I can attempt to fix the issues with 1.16.
+This is a fork of Immersive Portals for Forge. Original repo by quoteall.
 
 ---
 
